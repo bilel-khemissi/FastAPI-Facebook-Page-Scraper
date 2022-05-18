@@ -1,4 +1,3 @@
-import imp
 from fastapi.testclient import TestClient
 
 from scraper import app
